@@ -1,5 +1,5 @@
 # FileManager
-Double-screen file manager
+Double-screen file manager.
 Features:
 - Show list of disks
 - Show folder content
